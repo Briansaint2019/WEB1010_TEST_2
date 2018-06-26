@@ -9,3 +9,6 @@ function mystery(x, y) {
   var c = a + b;
   return c;
 }
+
+
+function efficient(x,y){var a=4*x*y;var b=3*y+5;var c=a+b;return c}     

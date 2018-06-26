@@ -5,3 +5,15 @@
 //
 // Inside the if code block, log to the console "The condition is true".
 // Inside the else code block, log to the console "The condition is false."
+
+var condition = 3 > 4;
+
+if (3 > 4) {
+
+    Text = "The condition is true";
+console.log(condition)
+}
+else {
+    Text = "The condition is false.";
+console.log(condition)
+}

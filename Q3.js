@@ -7,3 +7,10 @@
 //
 // IMPORTANT: you must replace <length of string> with the length of longString
 // using the .length property
+
+var longString;
+longStringLength = 0;
+longString = "it's peanutbutter jelly";
+longStringLength = longString.length;
+console.log(longStringLength)
+

@@ -6,3 +6,39 @@
 // Then first console log should print the number 8.
 // Then first console log should print the number 13.
 // Then first console log should print the number -3.
+
+
+var x = sum(5, 8);
+function sum(a, b) {
+    
+    return a + b - a;
+
+    
+
+}
+
+console.log(x);
+
+var ggg = sum(5, 8);
+
+function sum(a, b) {
+    
+    return  a + b;
+
+   
+console.log(ggg)  
+
+}
+
+
+
+
+var t = sum(5, 8);
+function sum(a, b) {
+    
+    return a - b;
+
+    
+
+}
+console.log(t);
